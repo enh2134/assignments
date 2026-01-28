@@ -1,6 +1,6 @@
 # Emily Han 
 ## New York City, NY | enh2134@columbia.edu
-[My Headshot](https://github.com/enh2134/Resume/blob/main/Headshot.JPG)
+![My Headshot](Headshot.JPG)
 
 **EDUCATION**
 
@@ -42,3 +42,7 @@ Development Authority by conducting literature reviews, stakeholder meetings, an
 Jenkins, Jessica A., Martin D. Gallivan, and Emily Han
 2023 Roast ‘Em, Shuck ‘Em, Stick ‘Em in a Stew: Oyster Processing Practices at a Woodland and Protohistoric
 Village Site (44YO687) in the Chesapeake. Journal of Middle Atlantic Archaeology 39:103–120.
+
+**PROFESSIONAL INTERESTS**
+
+Marine Science, Data Analytics, Paleoclimatology, Environmental Science, Research
