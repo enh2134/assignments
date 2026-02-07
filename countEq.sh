@@ -1,0 +1,1 @@
+grep -wc "$1" Year_Mag_Country.tsv
